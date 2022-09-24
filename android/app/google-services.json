@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "747934444309",
+    "project_id": "workeros",
+    "storage_bucket": "workeros.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747934444309:android:d4b1f3da28de267d71d71c",
+        "android_client_info": {
+          "package_name": "com.example.workosaribic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747934444309-r4aarvbmrat9p1jlif9gjn5id7e703qo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.workosaribic",
+            "certificate_hash": "6801f0d25ff3a8970583faea4c2e74454b7d822e"
+          }
+        },
+        {
+          "client_id": "747934444309-cuns2k1hes0cpsjdolit2l0r85roqv25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHip98by_8DrydLCJyrb-WH-DLdWctkH8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747934444309-cuns2k1hes0cpsjdolit2l0r85roqv25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
